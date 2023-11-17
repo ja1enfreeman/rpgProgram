@@ -204,6 +204,7 @@ void drinkHealingPotion(Player& player, int min, int max) {
             }
           }
       }
+    
 
       // Check for a winner
       if (player1.health <= 0) {
