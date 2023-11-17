@@ -1,0 +1,6 @@
+DUVALLLLL
+Trevor_Lawerance 100 ArmStrength
+Calvin_Ridley 100 DropPass
+1 10
+1 10
+10 20
